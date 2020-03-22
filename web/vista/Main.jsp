@@ -8,20 +8,16 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Bienvenido a Make a Texta </title>
+        <title>Bienvenido a Make a Text </title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css\main1.css">
     </head>
     <body>
-        <div id="Titulo">
-            <h1>Bienvenido a Make a Texts/h1>
-        </div>
-        <div class="Usuario">
+            <h1>Bienvenido a Make a Texts</h1>
             <button> Usuario</button>
-        </div>
-        <div class="Administrador">
             <button>Adminitrador</button>
-        </div>
+        
     </body>
 </html>
 

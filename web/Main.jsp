@@ -15,9 +15,10 @@
     </head>
     <body>
             <h1>Bienvenido a Make a Texts</h1>
+            <br>
             <button> Usuario</button>
+            <br>
             <button>Adminitrador</button>
         
     </body>
 </html>
-

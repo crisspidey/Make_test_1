@@ -14,11 +14,12 @@
         <link rel="stylesheet" href="css\main1.css">
     </head>
     <body>
+        <div id="cuerpo">
             <h1>Bienvenido a Make a Texts</h1>
             <br>
             <button> Usuario</button>
             <br>
             <button>Adminitrador</button>
-        
+        </div>  
     </body>
 </html>

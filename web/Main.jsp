@@ -15,13 +15,15 @@
     </head>
     <body>
         <div id="cuerpo">
-        <form method="post" action="Seleccionar_Cuestionario.jsp"
+            <form method="post" action="Seleccionar_Cuestionario.jsp">
         
             <h1>Bienvenido a Make a Texts</h1>
             <br>
             <button> Usuario</button>
         </form>
+            <form method="post" action="login.jsp">
             <button>Adminitrador</button>
+            </form>
         </div>
         
     </body>

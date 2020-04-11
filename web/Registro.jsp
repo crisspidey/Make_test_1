@@ -36,8 +36,9 @@
             
             <button type="regresar" value="Regresar" id="boton_de_regreso">Regresar</button>
             <br>
-            <button type="registrarse" value="Registrarse" id="registro_de_administrador">Registrarse</button>
             <button></button>
+            <button type="registrarse" value="Registrarse" id="registro_de_administrador">Registrarse</button>
+            
             <br>
         </form>
         </div>

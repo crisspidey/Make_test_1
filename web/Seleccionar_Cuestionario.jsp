@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Seleccionar_Cuestionario
-    Created on : 27-mar-2020, 10:09:37
-    Author     : ivanesteban
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -12,6 +6,15 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Elige el Cuestionario</h1>
+        <form>
+            <label>Cuestionario</label>
+            <select name=""Cuestionario>
+                
+            </select>
+            <br>
+            <br>
+            <button>Iniciar Cuestionario </button>
+        </form>
     </body>
 </html>

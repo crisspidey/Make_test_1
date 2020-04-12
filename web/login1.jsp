@@ -1,9 +1,8 @@
 <%-- 
-    Document   : Registro
-    Created on : 31-mar-2020, 13:11:10
-    Author     : cristian
+    Document   : login1
+    Created on : 11-abr-2020, 18:54:18
+    Author     : ivanesteban
 --%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -16,17 +15,9 @@
     </head>
     <body>
         <form class="formulario">
-            <h1>Registrate</h1>
+            <h1>Login</h1>
             
             <div class="contenedor">
-                    <div class="input-contenedor">
-                     <i class="fas fa-user icon"></i>
-                     <input type="text" placeholder="Nombre Completo">
-                    </div>
-                    <div class="input-contenedor">
-                     <i class="fas fa-envelope icon"></i>
-                     <input type="text" placeholder="Email">
-                    </div>
                     <div class="input-contenedor">
                      <i class="fas fa-user-circle icon"></i>
                      <input type="text"  placeholder="user">
@@ -35,10 +26,9 @@
                      <i class="fas fa-lock icon"></i>
                      <input type="password" placeholder="password">
                     </div>
-                     <input type="submit" value="Registrase">
-                     <input type="submit" value="Atras">
+                     <input type="submit" value="Ingresar">
                      <br>
-                     <p>ya esta registrado       Ya tiene cuenta  <a class="link" href="login1.jsp">iniciar seccion</a></p>
+                     <p>ya esta registrado       Ya tiene cuenta  <a class="link" href="Registro.jsp">iniciar seccion</a></p>
                 </div>
         </form>
     </body>

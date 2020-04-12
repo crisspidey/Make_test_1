@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-abr-2020, 22:46:30
+    Author     : ivanesteban
+*/
+h1{
+    display: inline-block;
+    color: red;
+    position:relative;
+    align-content: center
+}
+#Cuestonario{
+   width: 330px;
+   background: #666666;
+   color: darkkhaki;
+   margin:auto;
+   margin-top: 20px;
+   padding: 5px 5px 30px 5px;
+   border-top: 35px solid #99ffff;
+   border-left: 35px solid #99ffff;
+   border-right: 35px solid #99ffff   
+}

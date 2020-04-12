@@ -28,7 +28,7 @@
                     </div>
                      <input type="submit" value="Ingresar">
                      <br>
-                     <p>ya esta registrado       Ya tiene cuenta  <a class="link" href="Registro.jsp">iniciar seccion</a></p>
+                     <p>ya tiene cuenta   Esta registrado <a class="link" href="Registro.jsp">Registrase</a></p>
                 </div>
         </form>
     </body>

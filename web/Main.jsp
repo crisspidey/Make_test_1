@@ -21,7 +21,7 @@
             <br>
             <button> Usuario</button>
         </form>
-            <form method="post" action="login.jsp">
+            <form method="post" action="login1.jsp">
             <button>Adminitrador</button>
             </form>
         </div>

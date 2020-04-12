@@ -36,7 +36,6 @@
                      <input type="password" placeholder="password">
                     </div>
                      <input type="submit" value="Registrase">
-                     <input type="submit" value="Atras">
                      <br>
                      <p>ya esta registrado       Ya tiene cuenta  <a class="link" href="login1.jsp">iniciar seccion</a></p>
                 </div>

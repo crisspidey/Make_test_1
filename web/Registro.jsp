@@ -17,7 +17,6 @@
     <body>
         <form class="formulario">
             <h1>Registrate</h1>
-            
             <div class="contenedor">
                     <div class="input-contenedor">
                      <i class="fas fa-user icon"></i>

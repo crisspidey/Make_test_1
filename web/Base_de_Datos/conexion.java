@@ -10,6 +10,7 @@ public class conexion {
         this.User = "root";
         this.pass = "";
         this.Driver = "com.mysql.jdbc.Driver";
+        
     }
 
     public String getUrl() {

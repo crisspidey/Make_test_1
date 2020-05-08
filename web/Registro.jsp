@@ -15,24 +15,20 @@
         <script src="https://kit.fontawesome.com/cc4325b09c.js"></script>
     </head>
     <body>
-        <form class="formulario">
+        <form action="Registra1"class="formulario">
             <h1>Registrate</h1>
             <div class="contenedor">
                     <div class="input-contenedor">
                      <i class="fas fa-user icon"></i>
-                     <input type="text" placeholder="Nombre Completo">
-                    </div>
-                    <div class="input-contenedor">
-                     <i class="fas fa-envelope icon"></i>
-                     <input type="text" placeholder="Email">
+                     <input type="text" placeholder="Nombre Completo" name="nombre">
                     </div>
                     <div class="input-contenedor">
                      <i class="fas fa-user-circle icon"></i>
-                     <input type="text"  placeholder="user">
+                     <input type="text"  placeholder="user" name="usuario">
                     </div>
                     <div class="input-contenedor">
                      <i class="fas fa-lock icon"></i>
-                     <input type="password" placeholder="password">
+                     <input type="password" placeholder="password"name="contraseña">
                     </div>
                      <input type="submit" value="Registrase">
                      <br>

@@ -14,19 +14,19 @@
         <script src="https://kit.fontawesome.com/cc4325b09c.js"></script>
     </head>
     <body>
-        <form class="formulario">
+        <form action="iniciar" class="formulario">
             <h1>Login</h1>
             
             <div class="contenedor">
                     <div class="input-contenedor">
                      <i class="fas fa-user-circle icon"></i>
-                     <input type="text"  placeholder="user">
+                     <input type="text"  placeholder="user" name="Usuario">
                     </div>
                     <div class="input-contenedor">
                      <i class="fas fa-lock icon"></i>
-                     <input type="password" placeholder="password">
+                     <input type="password" placeholder="password" name="Contraseña">
                     </div>
-                     <input type="submit" value="Ingresar">
+                <input type="submit" value="Ingresar" name="Ingresar1">
                      <br>
                      <p>ya tiene cuenta   Esta registrado <a class="link" href="Registro.jsp">Registrase</a></p>
                 </div>

@@ -1,0 +1,18 @@
+/* 
+    Created on : 09-may-2020, 12:30:13
+    Author     : cristian
+*/
+
+#cuestionario{
+  position: fixed;
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+  left: 20px;
+}
+
+div.titulo_preguntas{
+    text-align: center;
+    font-size: 150%;
+    left: 100px;
+}
